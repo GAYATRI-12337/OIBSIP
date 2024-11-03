@@ -1,0 +1,4 @@
+mkdir pizza-delivery-backend
+cd pizza-delivery-backend
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken nodemailer dotenv cors
